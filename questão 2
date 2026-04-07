@@ -1,0 +1,4 @@
+numero = input("digite um numero:")
+numero =int(numero)
+
+print("dobro:",numero * 2)
