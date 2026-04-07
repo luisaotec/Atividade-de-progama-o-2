@@ -1,0 +1,4 @@
+numero = input("digite um numero:")
+
+print("numero digitado:",numero)
+print("tipo da variavel:",type(numero))
