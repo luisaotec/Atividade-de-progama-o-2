@@ -1,0 +1,4 @@
+numero = input("digite um numero: ")
+numero = int(número)
+triplo = número * 3
+print("o triplo desse numero é: ", triplo)
