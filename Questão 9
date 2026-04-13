@@ -1,0 +1,3 @@
+numero = input("digite um valor: ")
+numero = float(numero)
+calculo = numero / 2
