@@ -1,0 +1,7 @@
+número =  int(input("digite um numero: "))
+if número % 2 == 0 and num >= 0:
+    print("Par positivo ")
+elif num < 0:
+    print("Par negativo")
+else:
+    print("impar ")
