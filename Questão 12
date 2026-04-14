@@ -1,0 +1,10 @@
+número1 = int(input("digite um numero: "))
+número2 = int(input("digite outro numero: "))
+soma = numero1 + numero2
+print(" A soma é", soma)
+if numero1 > numero2:
+    print(" o numero maior é:", numero1)
+elif n2 > n1:
+    print(" o numero maior é:", numero2)
+else:
+    print("Os numeros são iguais")
