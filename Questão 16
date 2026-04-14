@@ -1,0 +1,4 @@
+valor =  input("digite um valor: ")
+print("tipo:", type(valor))
+quadrado = int(valor) ** 2
+print("O quadrado é: ", quadrado)
