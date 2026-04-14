@@ -1,0 +1,6 @@
+número =  input("Digite um valor: ")
+numero = int(número)
+if número % 3 == 0:
+    print("Multiplo de 3")
+else:
+    print("Não é multiplo de 3")
