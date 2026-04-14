@@ -1,0 +1,5 @@
+número = int(input("digite um numero: "))
+if número < 100:
+    print(número / 2)
+else:
+    print(número * 2)
